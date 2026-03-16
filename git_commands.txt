@@ -23,3 +23,5 @@
  git status
  python -u "c:\Train with shubham\github-for...
  clear
+ dir
+ aditi
