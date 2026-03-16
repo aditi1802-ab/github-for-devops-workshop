@@ -1,0 +1,25 @@
+ Id CommandLine
+  -- -----------
+ try { . "c:\Program Files (x86)\Microsoft V... 
+ python -u "c:\Train with shubham\github-for... 
+ git status
+ ls
+ dir
+ git status
+ git add testing.py
+ git status
+ git rm --cached
+ git status
+ git rm --cached
+ git rm --cached testing.py
+ git status
+ git add .
+ git status
+ git commit -m "added testing files"
+ git status
+ rm testing.py
+ git status
+ git restore testing.py
+ git status
+ python -u "c:\Train with shubham\github-for...
+ clear
